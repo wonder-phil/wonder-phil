@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @wonder-phil
 - 👀 I’m interested in foundations of computer science and engineering.  I am intersted
-- in applying these foundations to industrial challenges.
+- in applying these foundations to industrial challenges.  
 - 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning about the Stacks and Clarity.
 - 💞️ I’m looking to collaborate on ...
 - 📫 EMail me at phillip.g.bradford@gmail.com
 
